@@ -1,4 +1,4 @@
-Template
+템플릿
 ========
 
 $project will solve your problem of where to start with documentation,
@@ -10,20 +10,20 @@ Look how easy it is to use:
     # Get your stuff done
     project.do_stuff()
 
-Features
+특징
 --------
 
 - Be awesome
 - Make things faster
 
-Installation
+설치하기
 ------------
 
 Install $project by running:
 
     install project
 
-Contribute
+
 ----------
 
 - Issue Tracker: github.com/$project/$project/issues
