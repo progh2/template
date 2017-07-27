@@ -1,7 +1,6 @@
-Authors
+저자
 -------
 
-* Eric (New contributor)
-* Anthony 
+* 함기훈
 
 
